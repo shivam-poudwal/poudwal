@@ -1,0 +1,36 @@
+{
+  "name": "poudwal",
+  "version": "1.1.0",
+  "description": "A Laravel Artisan-inspired CLI for Next.js projects with MongoDB",
+  "main": "index.js",
+  "bin": {
+    "poudwal": "./bin/poudwal.js"
+  },
+  "files": [
+    "bin",
+    "commands",
+    "templates",
+    "utils",
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "nextjs",
+    "cli",
+    "generator",
+    "mongoose",
+    "artisan",
+    "scaffold"
+  ],
+  "author": "shivam-poudwal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
+  }
+}
