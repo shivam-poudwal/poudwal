@@ -1,6 +1,6 @@
 ## 🎬 Demo
 
-![poudwal demo](./demo.gif)
+![poudwal demo](https://raw.githubusercontent.com/shivam-poudwal/poudwal/main/demo.gif)
 
 # 🧰 poudwal
 
