@@ -1,3 +1,7 @@
+## 🎬 Demo
+
+![poudwal demo](./demo.gif)
+
 # 🧰 poudwal
 
 🚀 **Artisan for Next.js** — A powerful CLI inspired by Laravel Artisan for
